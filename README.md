@@ -19,6 +19,4 @@
 - *https://vk.com/lisakwon*
 - *https://www.instagram.com/lizakwon*
 
-![alt-текст](photo_2018-01-19_11-18-55.jpg)
-
-![photo_2018-01-19_11-18-55](photo_2018-01-19_11-18-55.jpg)
+![alt это я](https://github.com/lizakwon/hw1/blob/master/photo_2018-01-19_11-18-34.jpg?raw=true)
