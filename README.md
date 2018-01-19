@@ -8,11 +8,11 @@
 
 Я родилась 7 мая 1999 года
 
-Мои увлечнния:
+Мои увлечения:
 - рисование
 - музыка
 - просмотр фильмов
 
 чаще всего я сижу в этих социальных сетях:
-- *https://vk.com/lisakwon
-- *https://www.instagram.com/lizakwon
+- \*https://vk.com/lisakwon\*
+- \*https://www.instagram.com/lizakwon\*
