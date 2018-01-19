@@ -19,4 +19,5 @@
 - *https://vk.com/lisakwon*
 - *https://www.instagram.com/lizakwon*
 
-![alt-вот так я выгляжу](photo_2018-01-19_11-18-55.jpg)
+![alt-текст](photo_2018-01-19_11-18-55.jpg)
+
